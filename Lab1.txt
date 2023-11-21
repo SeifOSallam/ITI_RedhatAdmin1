@@ -1,0 +1,20 @@
+2- cat command prints the whole file in one go, more command prints the file as pages that the user can navigate through
+3- rm allows the user to delete files and directories 
+  rmdir only deletes directories
+4- a- dir11 won't delete the directory because it has files, to remove a directory with all the files in it,
+ you use rm -rf where r stands for recursive and f stands for force
+   b- rmdir -p deletes a directory with all its parent directories and stops if you're standing on one of those directories
+   c- relative: ./docs/mycv
+      absolute: /home/seif/docs/mycv
+5- cp /etc/passwd ~/mypasswd
+6- mv ~/mypasswd ~/oldpasswd
+7- frst: cd ~
+   scnd: cd /home/seif
+   thrd: cd ../../home/seif
+   four: cd $HOME
+8- cd /usr/bin; ls w*;
+9- head -n 4 /etc/passwd
+10- tail -n 7 /etc/passwd
+11- man /etc/passwd passwd
+12- man /etc/passwd
+13- 

@@ -1,0 +1,17 @@
+1- 1- useradd islam
+   2- usermod -c "Islam Askar" islam
+   3- passwd islam
+2- 1- useradd baduser -c "Bad User"
+   2- passwd baduser
+3- groupadd pgroud -g 30000
+4- groupadd badgroup
+5- usermod -G pgroup islam
+6- passwd islam --> password
+7- chage --maxdays 30 islam
+8- passwd -l islam
+9- userdel baduser
+10- groupdel badgroup
+13- mkdir myteam
+    chmod u=r myteam
+14- su -
+15- cd /home/seif/myteam
