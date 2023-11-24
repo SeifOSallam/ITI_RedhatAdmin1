@@ -51,5 +51,5 @@
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%202/L2Q16B.png?raw=true)
 
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%202/L2Q16C.png?raw=true)
-### Question 8
+### Question 18
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%202/L2Q18.png?raw=true)
