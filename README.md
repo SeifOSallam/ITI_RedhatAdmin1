@@ -72,5 +72,5 @@
 ### Question 9
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%203/L3Q9.png?raw=true)
 ### Question 11
-![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%203/L3Q10.png?raw=true)
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%203/L3Q11.png?raw=true)
 
