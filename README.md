@@ -87,8 +87,11 @@
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q5.png?raw=true)
 ### Question 6
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q6A.png?raw=true)
+
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q6B.png?raw=true)
+
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q6BB.png?raw=true)
+
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q6BBB.png?raw=true)
 ### Question 7
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q7.png?raw=true)
@@ -96,7 +99,9 @@
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q8.png?raw=true)
 ### Question 9
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q9A.png?raw=true)
+
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q9B.png?raw=true)
+
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q9C.png?raw=true)
 ### Question 10
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q10.png?raw=true)
