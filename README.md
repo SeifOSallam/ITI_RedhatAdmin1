@@ -68,7 +68,8 @@
 ### Question 7
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%203/L3Q7.png?raw=true)
 ### Question 8
-![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%203/L3Q8.png?raw=true)
+Bash: /home/user/.bash_profile
+
 ### Question 9
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%203/L3Q9.png?raw=true)
 ### Question 11
