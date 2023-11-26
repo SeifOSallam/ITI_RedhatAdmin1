@@ -90,8 +90,6 @@
 
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q6B.png?raw=true)
 
-![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q6BB.png?raw=true)
-
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q6BBB.png?raw=true)
 ### Question 7
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%204/L4Q7.png?raw=true)
