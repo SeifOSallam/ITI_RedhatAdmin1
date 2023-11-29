@@ -1,0 +1,12 @@
+#! /bin/bash
+
+printf "Write your logname\n"
+read user
+declare home=$(awk -F: -v input=$user '{if ($1 == input) print $6}' /etc/passwd)
+if [[ $home = "" ]]; then
+	printf "User doesn't exist\n"
+else
+	ls -l $home
+	cp -r $home/* /tmp
+	ps -u $user
+fi

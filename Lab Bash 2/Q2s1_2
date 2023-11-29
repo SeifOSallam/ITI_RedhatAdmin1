@@ -1,0 +1,4 @@
+#! /bin/bash
+export x=5
+
+./Q2s2

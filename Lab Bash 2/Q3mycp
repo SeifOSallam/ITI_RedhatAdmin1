@@ -1,0 +1,21 @@
+#! /bin/bash
+if [[ $# = 0 || $# = 1 ]]; then
+	printf "Invalid number of arguments (Must be 2 or more)\n"
+elif [[ $# = 2 ]]; then
+	if [[ -f $1 ]]; then	
+		cp $1 $2
+	else 
+		printf "File "$1" doesn't exist.\n"
+	fi
+else
+	if [[ -d ${@: -1} ]]; then
+		for arg in "$@"
+		do
+			if [[ $arg != ${@: -1} ]]; then
+				cp $arg ${@: -1}
+			fi
+		done
+	else
+		printf "Directory doesn't exist\n"
+	fi
+fi

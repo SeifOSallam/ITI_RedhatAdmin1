@@ -1,0 +1,5 @@
+#! /bin/bash
+
+printf "Please enter your name\n"
+read
+printf "Welcome, "$REPLY"\n"

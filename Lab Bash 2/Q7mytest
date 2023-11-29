@@ -1,0 +1,19 @@
+#! /bin/bash
+
+if [[ -f $1 ]]; then
+	printf "File\n"	
+elif [[ -d $1 ]]; then
+	printf "Directory\n"
+fi
+
+if [[ -r $1 ]]; then
+	printf "Readable\n"	
+fi
+
+if [[ -w $1 ]]; then
+	printf "Writable\n"	
+fi
+
+if [[ -x $1 ]]; then
+	printf "Executable\n"	
+fi
