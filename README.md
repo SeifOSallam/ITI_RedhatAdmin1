@@ -160,3 +160,34 @@ Bash: /home/user/.bash_profile
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%205/L5Q11.png?raw=true)
 ### Question 12
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%205/L5Q12.png?raw=true)
+
+
+## Lab Bash 1:
+### Question 1
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ1.png?raw=true)
+### Question 2
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ2.png?raw=true)
+### Question 3
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ3.png?raw=true)
+### Question 4
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ4.png?raw=true)
+### Question 5
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ5.png?raw=true)
+### Question 6
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ6.png?raw=true)
+### Question 7
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ7.png?raw=true)
+### Question 8
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ8.png?raw=true)
+### Question 9
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ9.png?raw=true)
+### Question 10
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ10.png?raw=true)
+### Question 11
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ11A.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ11B.png?raw=true)
+### Question 12
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ12.png?raw=true)
+### Question 13
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash/LBQ13.png?raw=true)
