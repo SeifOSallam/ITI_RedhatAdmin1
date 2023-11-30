@@ -228,7 +228,9 @@ Bash: /home/user/.bash_profile
 
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%202/LB2Q6V2.png?raw=true)
 
-![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%202/LB2Q6V2OP.png?raw=true)
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%202/LB2Q6V2OP1.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%202/LB2Q6V2OP2.png?raw=true)
 ### Question 7
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%202/LB2Q7.png?raw=true)
 
