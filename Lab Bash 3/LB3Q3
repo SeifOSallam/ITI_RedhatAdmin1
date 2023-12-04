@@ -1,0 +1,13 @@
+#! /bin/bash
+
+OIFS="$IFS"
+IFS=$'\n'
+
+
+for f in `ls ~`
+do
+	#echo ~/$f
+	chmod u+x ~/$f
+	
+done
+IFS="$OIFS"

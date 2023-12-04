@@ -1,0 +1,27 @@
+#! /bin/bash
+
+shopt -s extglob
+LC_COLLATE=C
+
+while true
+do
+	printf "%s1- ls\n"
+	printf "%s2- ls -a\n"
+	printf "%s3- exit\n"
+	read
+	case $REPLY in
+		"ls"|1)
+		ls .
+		;;
+		"ls -a"|2)
+		ls -a
+		;;
+		[Ee][Xx][Ii][Tt]|3)
+		break;
+		;;
+		*)
+		echo "Pick a valid option."
+		;;
+	esac
+	printf "\n\n"
+done

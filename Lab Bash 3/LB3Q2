@@ -1,0 +1,28 @@
+#! /bin/bash
+
+shopt -s extglob
+LC_COLLATE=C
+
+read -p "Enter character: " char
+
+
+case $char in
+	+([a-z]) )
+	echo "Lower case"
+	;;
+	+([A-Z]) )
+	echo "Upper case"
+	;;
+	+([0-9]) )
+	echo "Number"
+	;;
+	+([a-zA-Z0-9]) )
+	echo "Mix"
+	;;
+	*)
+	echo "Nothing"
+	;;
+esac
+
+
+

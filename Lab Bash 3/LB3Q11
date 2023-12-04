@@ -1,0 +1,10 @@
+#! /bin/bash
+
+mysq () {
+	for num in "$@"
+	do
+		echo $(($num*$num))
+	done	
+}
+
+mysq 1 5 3 2

@@ -1,0 +1,28 @@
+#! /bin/bash
+
+shopt -s extglob
+LC_COLLATE=C
+
+read -p "Enter character: " char
+
+if (( ${#char} > 1 ));then
+	echo "invalid input"
+else
+	case $char in
+		+([a-z]) )
+		echo "Lower case"
+		;;
+		+([A-Z]) )
+		echo "Upper case"
+		;;
+		+([0-9]) )
+		echo "Number"
+		;;
+		*)
+		echo "Nothing"
+		;;
+	esac
+fi
+
+
+

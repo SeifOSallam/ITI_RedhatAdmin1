@@ -1,0 +1,10 @@
+#! /bin/bash
+
+if [[ !(-e ./mtemplate) ]];then
+	touch mtemplate
+fi
+
+echo "This is a test body" > mtemplate
+
+
+

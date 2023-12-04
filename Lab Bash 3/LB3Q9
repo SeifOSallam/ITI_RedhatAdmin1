@@ -1,0 +1,19 @@
+#! /bin/bash
+shopt -s extglob
+declare -a array=()
+read -p "How many elements do you want to enter? " inpnum
+if [[ $inpnum =~ ^([0-9]) ]]; then
+	typeset -i i=0
+	while (( $i < $inpnum ))
+	do
+		read -p $((++i))": " element
+		array+=($element)
+	done
+else
+	echo "Not Number"
+fi
+
+for num in "${array[@]}"
+do
+	echo $num
+done

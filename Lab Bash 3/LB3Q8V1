@@ -1,0 +1,23 @@
+#! /bin/bash
+
+shopt -s extglob
+LC_COLLATE=C
+
+select option in 'ls' 'ls -a' 'exit'
+do
+	case $REPLY in
+		"ls"|1)
+		ls .
+		;;
+		"ls -a"|2)
+		ls -a
+		;;
+		[Ee][Xx][Ii][Tt]|3)
+		break;
+		;;
+		*)
+		echo "Pick a valid option."
+		;;
+	esac
+done
+
