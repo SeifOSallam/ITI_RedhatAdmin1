@@ -239,3 +239,54 @@ Bash: /home/user/.bash_profile
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%202/LB2Q8.png?raw=true)
 
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%202/LB2Q8OP.png?raw=true)
+
+## Lab Bash 3:
+### Question 1
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q1.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q1OP.png?raw=true)
+### Question 2
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q2.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q2OP.png?raw=true)
+### Question 3
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q3.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q3OP.png?raw=true)
+### Question 4
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q4.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q4OP.png?raw=true)
+### Question 5
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q5.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q5OP.png?raw=true)
+### Question 6
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q6.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q6OP.png?raw=true)
+### Question 7
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q7.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q7OP.png?raw=true)
+### Question 8
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q8V1.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q8V1OP.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q8V2.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q8V2OP.png?raw=true)
+### Question 9
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q9.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q9OP.png?raw=true)
+
+### Question 10
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q10.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q10OP.png?raw=true)
+### Question 11
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q11.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%20Bash%203/LB3Q11OP.png?raw=true)
