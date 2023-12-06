@@ -296,6 +296,8 @@ Bash: /home/user/.bash_profile
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%206/L6Q1.png?raw=true)
 ### Question 2
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%206/L6Q2.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%206/L6Q2Part2.jpeg?raw=true)
 ### Question 3
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%206/L6Q3.png?raw=true)
 ### Question 4
