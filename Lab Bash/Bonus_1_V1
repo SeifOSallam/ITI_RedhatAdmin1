@@ -1,0 +1,31 @@
+(sort -t: -k4 -n /etc/passwd; \
+sort -t: -k3 -n /etc/group;) | \
+awk -F: \
+'BEGIN{print "User-Group Report"; print "------------"; i = 1;}
+{if (NF == 7) {
+	if (groups[$4] != "") {groups[$4] = groups[$4]","$1;}
+	else groups[$4] = $1;
+	userGroup[$1] = $3;
+	}
+else if (NF == 4) {
+	if ($4 != "") {
+		split($4,usrs,",");
+		for (user in usrs) {
+			if (groups[$3] != "") {groups[$3] = groups[$3]","usrs[user];}
+			else {groups[$3] = usrs[user];}
+			}
+		}
+	if (groups[$3] != "") {
+		print "Group "i++" "$1":";
+		split (groups[$3],users,",");
+		n = 1;
+		sum = 0;
+		for (user in users) {
+			currusr = users[user];
+			sum += userGroup[currusr];
+			}
+		print "   Sum of addresses = "sum;
+		}
+	}
+}
+'
