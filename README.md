@@ -347,3 +347,43 @@ Bash: /home/user/.bash_profile
 ### Question 26
 ![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%206/L6Q26.png?raw=true)
 
+## Lab7:
+### Part 1 Question 1
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q1.png?raw=true)
+
+### Part 1 Question 2
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q2.png?raw=true)
+### Part 1 Question 3
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q3.png?raw=true)
+### Part 1 Question 4
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q4Part1.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q4Part2.png?raw=true)
+### Part 1 Question 5
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q5.png?raw=true)
+### Part 1 Question 6
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q6.png?raw=true)
+### Part 1 Question 7
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q7.png?raw=true)
+### Part 1 Question 8
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q8.png?raw=true)
+### Part 1 Question 9
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q9.png?raw=true)
+### Part 1 Question 10
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q10.png?raw=true)
+### Part 1 Question 11
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q11.png?raw=true)
+### Part 1 Question 12
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q12.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q12A.png?raw=true)
+
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q12B.png?raw=true)
+### Part 1 Question 13
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q13.png?raw=true)
+### Part 1 Question 14
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q14.png?raw=true)
+### Part 1 Question 15
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q15.png?raw=true)
+### Part 1 Question 16
+![alt text](https://github.com/SeifOSallam/ITI_RedhatAdmin1/blob/main/Lab%207/L7P1Q16.png?raw=true)
